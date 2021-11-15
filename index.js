@@ -12,3 +12,4 @@ console.log(prompt("haha")); //prompt 后，运行时有弹框出来
 // let isMan = true; //boolean
 // console.log("你好"+myName+"你今年"+age+"了");
 //console.log只是会让打的东西在console（后台）显示
+//~~"123" 相当于把123变成int
